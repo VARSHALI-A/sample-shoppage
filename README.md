@@ -1,7 +1,7 @@
 # Sample Shopping Page
 
 ## Description
-This is a practice shopping webpage created while learning front-end web development through WebX.
+This is a practice shopping webpage created while learning front-end web development to improve HTML and CSS coding skills
 
 ## Technologies Used
 - HTML
