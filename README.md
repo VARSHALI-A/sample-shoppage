@@ -13,5 +13,5 @@ This is a practice shopping webpage created while learning front-end web develop
 - Practice project for learning web development
 
 ## Live Demo 
-- https://varahali-a.github.io/sample-shoppage/
+- https://varshali-a.github.io/sample-shoppage/
 
